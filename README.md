@@ -14,12 +14,7 @@ As tcpdump is available on most \*NIX system I usually use tcpdump. Depending on
 [src](https://networkengineering.stackexchange.com/questions/10073/difference-between-sniffer-tools)
 
 
-
-#### Networking Tools
-- [uvloop](https://github.com/MagicStack/uvloop) ([article](https://magic.io/blog/uvloop-blazing-fast-python-networking/)) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
-
-
-#### Hacking, PCAPs, and Network Analysis
+### Hacking, PCAPs, and Network Analysis
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [knock](https://github.com/guelfoweb/knock) - subdomain scanner
@@ -31,3 +26,7 @@ As tcpdump is available on most \*NIX system I usually use tcpdump. Depending on
 - [PyPCAPKit](https://github.com/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analyse kit.
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
+
+
+### Networking Tools
+- [uvloop](https://github.com/MagicStack/uvloop) ([article](https://magic.io/blog/uvloop-blazing-fast-python-networking/)) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
