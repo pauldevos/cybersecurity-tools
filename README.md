@@ -20,13 +20,14 @@ As tcpdump is available on most \*NIX system I usually use tcpdump. Depending on
 
 
 #### Hacking, PCAPs, and Network Analysis
-- [Sublist3r](https://github.com/aboul3la/Sublist3r)
-- [scapy](https://github.com/secdev/scapy)
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [knock](https://github.com/guelfoweb/knock) - subdomain scanner
-- [scapy-http](https://github.com/invernizzi/scapy-http)
-- [dpkt](https://github.com/kbandla/dpkt)
-- [kamene](https://github.com/phaethon/kamene)
+- [scapy-http](https://github.com/invernizzi/scapy-http) - Support for HTTP in Scapy
+- [dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
+- [kamene](https://github.com/phaethon/kamene) - Network packet and pcap file crafting/sniffing/manipulation/visualization security tool. Originally forked from scapy in 2015 and providing python3 compatibility since then.
 - [pcapy](https://github.com/SecureAuthCorp/pcapy) - Pcapy is a Python extension module that interfaces with the libpcap packet capture library.
 - [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 - [PyPCAPKit](https://github.com/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analyse kit.
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
